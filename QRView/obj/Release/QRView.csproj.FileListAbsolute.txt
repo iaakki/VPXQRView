@@ -1,0 +1,10 @@
+D:\vpx\QRView\QRView\bin\Release\QRView.exe.config
+D:\vpx\QRView\QRView\bin\Release\QRView.exe
+D:\vpx\QRView\QRView\bin\Release\QRView.pdb
+D:\vpx\QRView\QRView\obj\Release\QRView.csproj.AssemblyReference.cache
+D:\vpx\QRView\QRView\obj\Release\viewer.Form1.resources
+D:\vpx\QRView\QRView\obj\Release\QRView.Properties.Resources.resources
+D:\vpx\QRView\QRView\obj\Release\QRView.csproj.GenerateResource.cache
+D:\vpx\QRView\QRView\obj\Release\QRView.csproj.CoreCompileInputs.cache
+D:\vpx\QRView\QRView\obj\Release\QRView.exe
+D:\vpx\QRView\QRView\obj\Release\QRView.pdb

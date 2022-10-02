@@ -1,0 +1,10 @@
+D:\vpx\QRView\QRView\bin\Debug\QRView.exe.config
+D:\vpx\QRView\QRView\bin\Debug\QRView.exe
+D:\vpx\QRView\QRView\bin\Debug\QRView.pdb
+D:\vpx\QRView\QRView\obj\Debug\QRView.csproj.AssemblyReference.cache
+D:\vpx\QRView\QRView\obj\Debug\viewer.Form1.resources
+D:\vpx\QRView\QRView\obj\Debug\QRView.Properties.Resources.resources
+D:\vpx\QRView\QRView\obj\Debug\QRView.csproj.GenerateResource.cache
+D:\vpx\QRView\QRView\obj\Debug\QRView.csproj.CoreCompileInputs.cache
+D:\vpx\QRView\QRView\obj\Debug\QRView.exe
+D:\vpx\QRView\QRView\obj\Debug\QRView.pdb
